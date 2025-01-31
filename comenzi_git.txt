@@ -4,6 +4,9 @@ git config --global user.name "Numele tau..."
 #Setarea emailului utiliz
 git config --global user.email "emailul@tau.com"
 
+#Deschiderea editorului Visual Studio Code ca editor default pt git
+git config --global 
+
 #initializeaza proiecul de git local - creeaza un folder .git ascuns
 git init
 
