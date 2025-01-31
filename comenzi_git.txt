@@ -42,3 +42,9 @@ git push
 #Pentru a lua codul de pe server
 git pull origin
 git pull
+
+#Pentru lucru cu branch-uri
+git branch
+
+#Redenumirea branch-ului curent in ce este dupa -m
+git branch -m main
